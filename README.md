@@ -2,7 +2,9 @@
 
 ## Usage/Examples
 
-```Run: python {filename}.py```
+```bash
+Run: python {filename}.py
+```
 
 ## Reference
 
