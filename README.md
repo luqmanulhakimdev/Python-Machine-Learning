@@ -1,6 +1,8 @@
 # Python-Machine-Learning
 
-RUN: python {filename}.py
+## Usage/Examples
+
+```Run: python {filename}.py```
 
 ## Reference
 
